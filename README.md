@@ -6,14 +6,12 @@ the_first_c_project
 -----------------
 - ### main 화면  
 ![buger](img/main.PNG)  
-
+- ### 선택 화면  
 ![buger](img/Kategorie_burger.PNG)&nbsp;
 ![buger](img/Kategorie_drink.PNG)&nbsp;
 ![buger](img/Kategorie_side.PNG)  
-
-![buger](img/Kategorie_choice.PNG)  
-
+- ### 결제 화면  
 ![buger](img/discount.PNG)&nbsp;
 ![buger](img/Payment.PNG)  
-
+- ### main 화면  
 ![buger](img/order.PNG)
